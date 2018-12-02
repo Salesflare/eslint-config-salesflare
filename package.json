@@ -25,5 +25,10 @@
     "eslint-plugin-hapi": "^4.1.0",
     "eslint-plugin-new-with-error": "^2.0.0",
     "eslint-plugin-unicorn": "^6.0.1"
-  }
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "salesflare"
+  ]
 }
