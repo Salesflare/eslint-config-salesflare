@@ -1,0 +1,29 @@
+{
+  "name": "eslint-config-salesflare",
+  "version": "1.0.0",
+  "description": "Eslint config for Salesflare",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Salesflare/eslint-config-salesflare.git"
+  },
+  "author": "Salesflare team",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/Salesflare/eslint-config-salesflare/issues"
+  },
+  "homepage": "https://github.com/Salesflare/eslint-config-salesflare#readme",
+  "engines": {
+    "node": ">=8.14.0"
+  },
+  "dependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-hapi": "^12.0.0",
+    "eslint-plugin-hapi": "^4.1.0",
+    "eslint-plugin-new-with-error": "^2.0.0",
+    "eslint-plugin-unicorn": "^6.0.1"
+  }
+}
