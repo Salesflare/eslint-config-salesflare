@@ -11,7 +11,7 @@
     "url": "git+https://github.com/Salesflare/eslint-config-salesflare.git"
   },
   "author": "Salesflare team",
-  "license": "",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Salesflare/eslint-config-salesflare/issues"
   },
