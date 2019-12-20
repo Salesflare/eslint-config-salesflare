@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-salesflare",
-  "version": "2.1.1",
+  "version": "3.0.0",
   "description": "Eslint config for Salesflare",
   "main": "lib/index.js",
   "scripts": {
