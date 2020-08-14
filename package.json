@@ -17,15 +17,15 @@
   },
   "homepage": "https://github.com/Salesflare/eslint-config-salesflare#readme",
   "engines": {
-    "node": ">=12.14.0"
+    "node": ">=12.18.0"
   },
   "dependencies": {
     "@hapi/eslint-config-hapi": "^13.0.2",
     "@hapi/eslint-plugin-hapi": "^4.3.5",
-    "eslint": "^7.3.1",
-    "eslint-plugin-jsdoc": "^28.5.1",
+    "eslint": "^7.7.0",
+    "eslint-plugin-jsdoc": "^30.2.2",
     "eslint-plugin-new-with-error": "^2.0.0",
-    "eslint-plugin-unicorn": "^20.1.0"
+    "eslint-plugin-unicorn": "^21.0.0"
   },
   "keywords": [
     "eslint",
