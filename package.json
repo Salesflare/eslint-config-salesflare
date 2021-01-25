@@ -24,7 +24,7 @@
     "eslint": "^7.17.0",
     "eslint-plugin-jsdoc": "^30.7.13",
     "eslint-plugin-new-with-error": "^2.0.0",
-    "eslint-plugin-unicorn": "^25.0.1"
+    "eslint-plugin-unicorn": "^27.0.0"
   },
   "keywords": [
     "eslint",
