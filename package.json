@@ -20,11 +20,11 @@
     "node": ">=12.18.0"
   },
   "dependencies": {
-    "@hapi/eslint-plugin": "^5.0.0",
-    "eslint": "^7.20.0",
-    "eslint-plugin-jsdoc": "^32.2.0",
+    "@hapi/eslint-plugin": "^5.1.0",
+    "eslint": "^7.32.0",
+    "eslint-plugin-jsdoc": "^36.0.6",
     "eslint-plugin-new-with-error": "^2.0.0",
-    "eslint-plugin-unicorn": "^28.0.2"
+    "eslint-plugin-unicorn": "^34.0.1"
   },
   "keywords": [
     "eslint",
