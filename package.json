@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@hapi/eslint-plugin": "^5.1.0",
-    "eslint": "^7.32.0",
+    "eslint": "^8.4.0",
     "eslint-plugin-jsdoc": "^37.0.3",
     "eslint-plugin-new-with-error": "^3.1.0",
     "eslint-plugin-unicorn": "^39.0.0"
